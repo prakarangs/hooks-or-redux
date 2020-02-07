@@ -1,2 +1,2 @@
-# hooks-or-redux
-Example of state managements via Context API with hooks vs redux
+## Description
+Example of state management between context API / hooks versus Redux.
