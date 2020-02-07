@@ -1,0 +1,29 @@
+{
+  "cars": [
+    {
+      "id": "carId1",
+      "name": "Audi",
+      "color": "Black"
+    },
+    {
+      "id": "carId2",
+      "name": "Volkswagen",
+      "color": "Orange"
+    },
+    {
+      "id": "carId3",
+      "name": "Toyota",
+      "color": "White"
+    },
+    {
+      "id": "carId4",
+      "name": "Nissan",
+      "color": "Red"
+    },
+    {
+      "id": "carId5",
+      "name": "Honda",
+      "color": "Green"
+    }
+  ]
+}
