@@ -11,3 +11,7 @@ then from root directory run
 
 The data will be served under `http://localhost:3000/cars`
 You can also filter fields i.e., `http://localhost:3000/cars?id='someId'`
+
+
+## Run the app
+npm i && npm start
